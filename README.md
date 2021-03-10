@@ -1,9 +1,9 @@
-## 👋🏾 Hi there ! I am Espera AWO, another mobile and web developper from Cotonou, Benin 🇧🇯
+## 👋🏾 Hi there ! I am Espera AWO, another developper from Cotonou, Benin 🇧🇯
 ---
 ### About me 👨🏽‍💻 
 - 🎓 I’m a Computer Science graduate
 - 💼 I'm currently working at [OPEN SI](https://www.opensi.co)
-- 📫 How to reach me: [e-mail](mailto:esperaking81@gmail.com) or [call](tel:+22961270810) me
+- 📫 How to reach me: [e-mail](mailto:esperaking81@gmail.com) or [call](tel:+22968464811) me
 - 💬 Ask me about frontend and backend development for Web and Mobile
 - 👯 I’m looking to collaborate on Server Driven UI with Flutter ❤️
 - 🌱 I’m currently learning python 🐍
