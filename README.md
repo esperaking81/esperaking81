@@ -1,4 +1,4 @@
-## 👋🏾 Hi there ! I am Espera AWO, another developper from Cotonou, Benin 🇧🇯
+## 👋🏾 Hi there ! I am Espera AWO, another developer from Cotonou, Benin 🇧🇯
 ---
 ### About me 👨🏽‍💻 
 - 🎓 I’m a Computer Science graduate
