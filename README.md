@@ -3,7 +3,7 @@
 ### About me 👨🏽‍💻 
 - 🎓 I’m a Computer Science graduate
 - 💼 I'm currently working at [OPEN SI](https://www.opensi.co)
-- 📫 How to reach me: [e-mail](mailto:esperaking81@gmail.com) or [call](tel:+22961270810)
+- 📫 How to reach me: [e-mail](mailto:esperaking81@gmail.com) or [call me](tel:+22961270810)
 - 🌱 Most of my projects are on Gitlab. But I'll port them all here sooner or later
 - ⚡ Fun fact: I am almost, always working 😄
 
