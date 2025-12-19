@@ -1,17 +1,17 @@
-## 👋🏾 Hi there ! I am Espera AWO, a software developer from Cotonou, Benin 🇧🇯
+## 👋🏾 Hi there ! I am Espera AWO, a software developer from Cotonou, Benin 🇧🇯 currently based in Dakar, 🇸🇳
 ---
-### About me 👨🏽‍💻 
-- 🎓 I’m a Computer Science graduate
-- 💼 I'm currently working at [Epitech BENIN](https://epitech.bj)
-- 📫 How to reach me: [e-mail](mailto:esperaking81@gmail.com) or [call me](tel:+2290161270810)
-- 🌱 Most of my projects are on Gitlab. But I'll port them all here sooner or later
+### About me 👨🏽‍💻
+- 💼 I'm currently working at [Orange Senegal](https://sonatel.sn)
+- 📫 How to reach me: [e-mail](mailto:esperaking81@gmail.com)
+- 🌱 Most of my projects are private because of signed NDAs.
 - ⚡ Fun fact: I am almost, always working 😄
 
-## 🛠 Techs
+## 🛠 Toolbox
 - Java/Kotlin (Android)
 - Flutter (Dart)
+- App Architecture (MVVM, TDD, Clean Architecture)
 - TypeScript/JavaScript (NestJs, NextJs)
-- Advanced command line user
+- Advanced Linux/Unic user
 - DevOps (Nginx, Apache)
 - gRPC
 - CI/CD (Ansible, Github Actions, Codemagic)
