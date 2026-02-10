@@ -1,4 +1,4 @@
-## 👋🏾 Hi there ! I am Espera AWO, a software developer from Cotonou, Benin 🇧🇯 currently based in Dakar, 🇸🇳
+## 👋🏾 Hi there ! I am Espera AWO, a software developer from Cotonou, Benin 🇧🇯 currently based in Dakar, Senegal 🇸🇳
 ---
 ### About me 👨🏽‍💻
 - 📫 How to reach me: [e-mail](mailto:esperaking81@gmail.com)
