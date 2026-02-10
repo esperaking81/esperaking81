@@ -1,9 +1,8 @@
 ## 👋🏾 Hi there ! I am Espera AWO, a software developer from Cotonou, Benin 🇧🇯 currently based in Dakar, 🇸🇳
 ---
 ### About me 👨🏽‍💻
-- 💼 I'm currently working at [Orange Senegal](https://sonatel.sn)
 - 📫 How to reach me: [e-mail](mailto:esperaking81@gmail.com)
-- 🌱 Most of my projects are private because of signed NDAs.
+- 🌱 Most of my projects and repos are private.
 - ⚡ Fun fact: I am almost, always working 😄
 
 ## 🛠 Toolbox
@@ -11,10 +10,10 @@
 - Flutter (Dart)
 - App Architecture (MVVM, TDD, Clean Architecture)
 - TypeScript/JavaScript (NestJs, NextJs)
-- Advanced Linux/Unic user
+- Advanced Linux/Unix user
 - DevOps (Nginx, Apache)
 - gRPC
-- CI/CD (Ansible, Github Actions, Codemagic)
+- CI/CD (Ansible, Github Actions, Codemagic, Shorebird)
 
 <!--
 **esperaking81/esperaking81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
