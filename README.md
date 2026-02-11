@@ -11,7 +11,9 @@
 - Flutter (Dart)
 - App Architecture (MVVM, TDD, Clean Architecture)
 - TypeScript/JavaScript (NestJs, NextJs)
-- Advanced Linux/Unix user
+- Vim
+- Unix shell
+- tUI apps and tools
 - DevOps (Docker, Nginx, Apache)
 - gRPC
 - CI/CD (Ansible, Github Actions, Codemagic, Shorebird)
