@@ -11,7 +11,7 @@
 - App Architecture (MVVM, TDD, Clean Architecture)
 - TypeScript/JavaScript (NestJs, NextJs)
 - Advanced Linux/Unix user
-- DevOps (Nginx, Apache)
+- DevOps (Docker, Nginx, Apache)
 - gRPC
 - CI/CD (Ansible, Github Actions, Codemagic, Shorebird)
 
