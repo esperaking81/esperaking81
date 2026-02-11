@@ -1,7 +1,7 @@
 ## 👋🏾 Hi there !
 ---
-### About me 👨🏽‍💻
-- 👨🏽‍💻 How am I: Espera AWO, a Software Engineer who doesn't want to be bound to a specific technology.
+### About me
+- 👨🏽‍💻 Who am I: Espera AWO, a Software Engineer who doesn't want to be bound to a specific technology.
 - 📫 How to reach me: [e-mail](mailto:esperaking81@gmail.com)
 - 🌱 Most of my projects and repos are private.
 - ⚡ Fun fact: I am almost, always working 😄
